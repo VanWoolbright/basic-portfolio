@@ -69,6 +69,10 @@ footer {
     background-color: #777;
     margin: 0 auto;
     border-top: 5px solid #4aaaa5;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
 
 }
 
