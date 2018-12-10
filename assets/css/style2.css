@@ -1,0 +1,80 @@
+* {
+    color: #777;
+}
+
+body {
+    background-image: url(https://images.cdn3.stockunlimited.net/clipart/faceted-white-background_1992885.jpg);
+    background-repeat: repeat;
+}
+
+h2 {
+    color: #4aaaa5;
+    border-bottom: 2px solid #CCC;
+    padding-bottom: 25px;
+}
+
+#name {
+    position: relative;
+    top: 40px;
+    left: 300px;
+    color: #FFF;
+    background-color: #4aaaa5;
+    width: fit-content;
+    padding: 10px;
+}
+.links {
+    float: right;
+    position: relative;
+    right: 300px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+header {
+    border-bottom: 2px solid #CCC;
+    height: 100px;
+    background-color: #fff;
+}
+
+.container {
+    width: 600px;
+    height: 520px;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 20px;
+    border:1px solid #ddd; 
+    margin-bottom: 200px;
+}
+.namebox {
+    width: 100%;
+    margin: 0 auto;
+}
+.emailbox {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.messagebox {
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.submit {
+    color: #FFF;
+    background-color: #4aaaa5;
+    width: 75px;
+    height: 25px;
+}
+
+footer {
+    width: 100%;
+    height: 40px;
+    background-color: #777;
+    margin: 0 auto;
+    border-top: 5px solid #4aaaa5;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+}
